@@ -1,0 +1,34 @@
+.main{
+    display:inline-flex;
+    justify-content: center;
+    padding-top: 1rem;
+    padding-bottom: 5rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    width: 75%;
+    height: 90%;
+    word-spacing: 5px;   
+    letter-spacing: 1px;
+}
+main a {
+    padding: 1rem;
+    text-transform: uppercase;
+    color:rgba(85, 88, 94, 0.562);
+    font-weight: 500;
+    font-size: 70%;
+}
+main h1 {
+    color: #610f86;
+    font-size: 100%;
+    text-transform: uppercase;
+    margin-right: 15rem;
+}
+.main-form{
+    margin-left: 1rem;
+}
+.main-text{
+    display:flex;
+    flex-direction: row;
+    margin: 1rem;
+    
+}

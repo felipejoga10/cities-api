@@ -1,0 +1,32 @@
+th {
+    font-size-adjust: initial;
+    font-size: 10rem;
+}
+.list-text {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+.table-edit{
+    padding-bottom: 100rem;
+    margin-bottom: 20rem;
+    padding: 10rem;
+    margin: 20rem;
+    align-items: center;
+}
+.right-side table th, .right-side table td {
+    text-align: center;
+    font-size: 15px;
+}
+
+.right-side table th {
+    background-color: #F9FAFB;
+    font-size: 15px;
+}
+.right-side table {
+    width: 80%;
+    margin-left: 10rem;
+    margin-top: 20rem;
+}
+

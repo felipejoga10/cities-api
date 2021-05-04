@@ -1,0 +1,31 @@
+.menu {
+	margin: 0; padding: 0;
+    float: left;
+    align-items: center;
+    background-image: linear-gradient(95deg,#0432b1 ,#610f86 90%);
+    font-size: 100%;  
+    width: 18%;
+    height: 70rem;
+    padding-bottom: 10rem;
+}
+.logo {
+    padding: 0.5rem;
+}
+.list ul li{
+    margin: 2rem;
+    list-style:none;
+}
+.list a{
+    text-decoration: none;
+    color: #f8fafd; 
+}
+.textMenu {
+    width: 60%;
+    margin-left: 2.1rem;
+    justify-content: center;
+    color: rgba(248, 250, 253, 0.336);
+}
+.fa {
+    margin: 0.1rem;
+    letter-spacing: 1rem;  
+}
